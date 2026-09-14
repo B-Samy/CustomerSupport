@@ -1,6 +1,9 @@
-pandas 
-numpy 
-joblib 
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
 matplotlib
 seaborn
-nltk 
+nltk
+sentence-transformers
